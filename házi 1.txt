@@ -1,0 +1,37 @@
+1.	Mit nevezünk N-típusú dopingnak, és mely atomok vesznek részt benne?:szilicium atomok és foszfor atomok 
+        Félvezetõk vezetõképességének javitására használják.A le nem kötött elektron igy könnyen felszabadul.
+
+
+
+
+2.	Mit nevezünk P-típusú dopingnak, és mely atomok vesznek részt benne?:Bór atom,foszfor atom,szilicium atom 
+        Amikor az elektronok a lyukakat betöltve áramlanak és azok mintha ellenkezõ irányba mozognának. 
+
+
+
+3.	Mi a dióda?:A tranzisztor része az egyik irányban átengedi az áramot,mig a másik irányba nem 
+
+
+
+
+4.	Hogyan lehet a tranzisztort a számítástechnikában használni?:A számitogépben és az okostelefonokban mikroprocesszorok találhatok ezek kb. 2 milliárd 
+        tranzisztort tartalmaznak ezek segitségével lehet az áram áramlási irányát befolyásolni,hogy az informáciokat szállitsák. 
+
+
+
+5.	Mit nevezünk órajelnek a processzorok esetén?:Egy olyan elektromos jel amely különleges vezetékben helyezkedik el igy állandó sebességgel be és  
+        kikapcsol annak érdekében,hogy miden szinkronban müködjön.  
+
+
+
+6.	Milyen típusú adatok tárolódnak el a memóriacímeken?:Ram:tetszõleges memoria 
+                                                             Rom:gyárilag megirt memoria  
+
+
+
+7.	Sorold fel a 8 alapmûveletet!:Load(Számbetöltése),Add(Összeadja a két számott),Store(Eredmény tárolása Ram) Compare(Az eredmény nagysága,azonossága),
+Jump IFCondition(Adatok ellenõrzése),Jump,Out,In
+
+
+
+8.	Mi az ALU és a register? Sorolj fel néhány register fajtát!Arithmetic Logic Unit:Az összes matematikai müveleteket végrehajtó egység.
